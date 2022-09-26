@@ -8,8 +8,11 @@
 
 This is a project of evolution, both technical and knowledge.
 
-- 🤖 Image classifier cells with leukemia and healthy.
-
+- 🤖 CNN - TensorFlow and Keras
+```sh
+AnaliseCelular_Keras_TensorFlow.ipynb
+```
+> Note:  Image classifier cells with leukemia and healthy.
 
 ## Features
 
