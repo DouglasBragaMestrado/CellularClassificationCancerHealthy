@@ -20,20 +20,11 @@ AnaliseCelular_Keras_TensorFlow.ipynb
 - TensorFlow
 - Keras
 
-## Tech
+## Result
 
-Dillinger uses a number of open source projects to work properly:
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+![image](https://user-images.githubusercontent.com/108593071/193427492-73d0ebfe-aa9c-42ec-a9c6-649801a52c22.png)
+
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
